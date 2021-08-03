@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    background-color: rgb(208, 238, 255); 
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the top navigation bar */
+  .topnav {
+    text-align: center;
+    overflow: hidden;
+    background-color: rgb(33, 65, 83);
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: auto;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: rgb(208, 238, 255);
+    color: rgb(33, 65, 83);
+  }
+  
+  /* Style the content */
+  .login_SignUp{
+    float: right;
+  }
+
+  .Deshboard {
+    float: left;
+  }
+  .Shop{
+    float: left;
+  }
+  
+  .content {
+    padding: 10px;
+    text-align: center;
+    height: auto; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Style the footer */
+  .footer {
+    background-color: rgb(49, 162, 228);
+    padding: 10px;
+    color:white
+  }
