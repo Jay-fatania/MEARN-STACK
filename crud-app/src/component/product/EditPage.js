@@ -117,7 +117,7 @@ class EditPage extends Component {
                     </div>
                     <div>
                         <label>Price</label>
-                        <input
+                        <input 
                             type="text"
                             name="price"
                             placeholder="Enter Price"
