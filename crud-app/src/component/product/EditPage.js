@@ -4,7 +4,7 @@ class EditPage extends Component {
     render() {
         return (
             <div>
-              EditPage  
+              
             </div>
         );
     }
